@@ -1,0 +1,38 @@
+{
+  "name": "xrp-wallet-chip",
+  "version": "1.0.0",
+  "description": "Application Web application for xrp wallet and implantable chip",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiChaelinzo/XRP-Wallet-Chip.git"
+  },
+  "keywords": [
+    "xrp",
+    "ripple",
+    "cryptocurrency",
+    "implant",
+    "chip",
+    "crypto",
+    "technology",
+    "tech",
+    "nfc",
+    "nfc-tools",
+    "web-app"
+  ],
+  "author": "Michael G. Inso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiChaelinzo/XRP-Wallet-Chip/issues"
+  },
+  "homepage": "https://github.com/MiChaelinzo/XRP-Wallet-Chip#readme",
+  "dependencies": {
+    "@moralisweb3/common-evm-utils": "^2.22.4",
+    "express": "^4.18.2",
+    "moralis": "^2.22.4"
+  },
+  "devDependencies": {}
+}
