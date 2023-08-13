@@ -1,6 +1,6 @@
 # XRP wallet for NFC
 
-![Screenshot](FlRGjciVp3fbWDvvOGdVFcuFTef2-bup52br6.jpeg)
+![Screenshot](_cd86d406-1cd5-441c-a3bf-03a4f597f7d7.jpg)
 
 Example of simple Ripple API server with endpoints, and a client NFC app.
 
