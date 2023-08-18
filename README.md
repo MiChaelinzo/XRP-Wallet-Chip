@@ -152,4 +152,5 @@ MIT
 
 ## Contributions
 
-Thanks to @wingleung for simple api code https://github.com/wingleung/Ripple-wallet-api-example
+Thanks to @wingleung and @Omodaka9375 for simple api code [https://github.com/wingleung/Ripple-wallet-api-example
+](https://github.com/Omodaka9375/xEth-wallet-for-NFC)https://github.com/Omodaka9375/xEth-wallet-for-NFC
